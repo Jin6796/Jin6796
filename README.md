@@ -3,7 +3,10 @@
 
 <!-- stat 표시 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin6796&show_icons=true&theme=default_repocard)
-Tech Stack
+
+📚 Studying 📚
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jin6796/Jin6796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
