@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 -->
 
 
-@@ -1,35 +1,35 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Jinny❤️&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
 👋🏻 Hi, I'm Jinny
 - 📫 How to reach me: dms102336@gmail.com
@@ -41,8 +40,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dms873&show_icons=true)
 
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=dms873)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
