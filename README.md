@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Welcome to the Jin's GitHub&fontSize=90)
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Jin&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
 
-👋🏻 Hi, I'm Jinny
+👋🏻 Hi, I'm Jin
 - 📫 How to reach me: cc6796@naver.com
 - 🌱 I’m currently learning  ~
 
