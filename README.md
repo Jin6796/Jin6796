@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Jinny❤️&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&height=200&text=Jin&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
+
 👋🏻 Hi, I'm Jinny
-- 📫 How to reach me: dms102336@gmail.com
-- 🌱 22.08.29 ~
+- 📫 How to reach me: cc6796@naver.com
+- 🌱 I’m currently learning  ~
+
 ### 📌 stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 <br>
@@ -38,7 +40,7 @@ Here are some ideas to get you started:
 <br>
 ### 👩🏻‍💻 stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dms873&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jin6796&show_icons=true)
 
 
 <br>
@@ -46,7 +48,7 @@ Here are some ideas to get you started:
 
 ### 💻 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dms873)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin6796)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
