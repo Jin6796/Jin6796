@@ -1,13 +1,6 @@
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin6796&count_bg=%2300BFFF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Today+%2F+Total&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- stat 표시 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin6796&show_icons=true&theme=github_dark)
-
-📚 Studying 📚
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin6796&layout=compact)](https://github.com/Jin6796/github-readme-stats)
-
 <!-- 
 **Jin6796/Jin6796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
