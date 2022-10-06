@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👩🏻‍💻%20Jin's%20GitHub%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=👩🏻‍💻%20Jin's%20GitHub%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,100:a82da8&height=200&section=header&text=👩🏻‍💻%20Jin's%20GitHub%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B6FFFF,100:a82da8&height=200&section=header&text=👩🏻‍💻%20Jin's%20GitHub%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
 
 👋🏻 Hi, I'm Jin
 - 📫 How to reach me: cc6796@naver.com
