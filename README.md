@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=👩🏻‍💻%20Jin's%20GitHub%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:66bb6a,100:B6FFFF&height=200&section=header&text=👩🏻‍💻%20Jin's%20GitHub%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:98ee99,100:B6FFFF&height=200&section=header&text=👩🏻‍💻%20Jin's%20GitHub%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
 
 👋🏻 Hi, I'm Jin
 - 📫 How to reach me: cc6796@naver.com
