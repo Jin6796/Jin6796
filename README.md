@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<-- 
-
--->
+<!-- https://github.com/kyechan99/capsule-render -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:94af76,100:81d4fa&height=200&section=header&text=👩🏻‍💻%20Jin's%20GitHub%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
 
