@@ -1,5 +1,5 @@
 <!-- 방문자 수 https://hits.seeyoufarm.com -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin6796%2Fhit-counter&count_bg=%2381D4FA&title_bg=%23A2CDE1&icon=github.svg&icon_color=%23E7E7E7&title=today%2FTotal&edge_flat=false)](https://github.com/Jin6796)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin6796%2Fhit-counter&count_bg=%23A2CDE1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=today%2FTotal&edge_flat=false)](https://github.com/Jin6796)
 
 
 <!-- 
