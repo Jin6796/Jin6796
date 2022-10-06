@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Jin's&nbspGitHub&fontSize=50&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Jin'sGitHub&fontSize=50&fontAlignY=30)
 
 👋🏻 Hi, I'm Jin
 - 📫 How to reach me: cc6796@naver.com
