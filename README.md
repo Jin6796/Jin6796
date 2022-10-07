@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![AmazonAws](https://img.shields.io/badge/Amazon%20aws-232F3E?style=for-the-badge&logo=Amazon%20aws&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrapap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GoogleCloud](https://img.shields.io/badge/Google20Cloud-4285F4?style=for-the-badge&logo=Google20Cloud&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/styled20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
