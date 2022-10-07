@@ -31,6 +31,13 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge%22)
+[![](https://img.shields.io/github/issues/uiwjs/react-shields.svg)](https://github.com/uiwjs/react-shields/issues)
+[![](https://img.shields.io/github/forks/uiwjs/react-shields.svg)](https://github.com/uiwjs/react-shields/network)
+[![](https://img.shields.io/github/stars/uiwjs/react-shields.svg)](https://github.com/uiwjs/react-shields/stargazers)
+[![](https://img.shields.io/github/v/release/uiwjs/react-shields.svg)](https://github.com/uiwjs/react-shields/releases)
+[![](https://img.shields.io/npm/v/@uiw/react-shields.svg)](https://www.npmjs.com/package/@uiw/react-shields)
+[![](https://jaywcjlove.github.io/sb/ico/gitee.svg)](https://gitee.com/uiw/react-shields)
+
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
