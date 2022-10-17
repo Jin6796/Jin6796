@@ -1,6 +1,6 @@
 <!-- 방문자 수 https://hits.seeyoufarm.com -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJin6796%2Fhit-counter&count_bg=%23A2CDE1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=today%2FTotal&edge_flat=false)](https://github.com/Jin6796)
-.
+
 
 <!-- 
 **Jin6796/Jin6796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 
 
 ### 👩🏻‍💻 stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jin6796&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin6796&show_icons=true)
 
 
 
 ### 💻 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin6796)](https://github.com/jin6796/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin6796)](https://github.com/Jin6796/github-readme-stats)
 
 
