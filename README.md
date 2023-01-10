@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 👋🏻 Hi, I'm Jin
 - 📫 How to reach me: cc6796@naver.com
 
-
+<br/>
 
 ### 📌 stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -53,13 +53,14 @@ Here are some ideas to get you started:
 ![Styled-components](https://img.shields.io/badge/styled%20components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
+<br/>
 
 ### 👩🏻‍💻 stats
 ![GitHub stats](https://github-readme-stats-jin6796.vercel.app/api?username=Jin6796&show_icons=true)
 
 
 
-
+<br/>
 
 ### 💻 Languages
 
