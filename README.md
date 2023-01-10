@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <!-- https://github.com/kyechan99/capsule-render -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:9ccc65,100:81d4fa&height=200&section=header&text=👩🏻‍💻%20Jin's%20GitHub%20👩🏻‍💻&animation=twinkling&fontColor=ffffff&fontSize=50&fontAlignY=30)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9ccc65,100:81d4fa&height=200&section=footer)
+
+
 👋🏻 Hi, I'm Jin
 - 📫 How to reach me: cc6796@naver.com
 
@@ -64,5 +65,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-jin6796.vercel.app/api/top-langs/?username=Jin6796)](https://github.com/Jin6796/github-readme-stats)
 
-<br>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9ccc65,100:81d4fa&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9ccc65,100:81d4fa&height=200&section=footer)
+
+
