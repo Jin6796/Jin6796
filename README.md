@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats-jin6796.vercel.app/api/top-langs/?username=Jin6796)](https://github.com/Jin6796/github-readme-stats)
 
 <br>
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9ccc65,100:81d4fa&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9ccc65,100:81d4fa&height=200&section=footer)
