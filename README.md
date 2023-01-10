@@ -54,12 +54,14 @@ Here are some ideas to get you started:
 
 
 ### 👩🏻‍💻 stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jin6796&show_icons=true)
+![GitHub stats](https://github-readme-stats-jin6796.vercel.app/api?username=Jin6796&show_icons=true)
+
+
 
 
 
 ### 💻 Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jin6796)](https://github.com/Jin6796/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jin6796.vercel.app/api/top-langs/?username=Jin6796)](https://github.com/Jin6796/github-readme-stats)
 
 
